@@ -1,0 +1,33 @@
+# Đối với Java
+*.class
+*.jar
+/target/
+
+# Đối với Maven
+/.m2/
+
+# Đối với IDE
+/.idea/
+/.vscode/
+
+# Đối với hệ thống build
+/build/
+
+# Đối với file cấu hình
+/application.properties
+/application.yml
+
+# Đối với file nhật ký và báo cáo
+/log/
+/report/
+
+# Đối với các tệp nhạy cảm
+/passwords.txt
+/secret.key
+Lưu ý rằng bạn có thể thêm hoặc chỉnh sửa các quy tắc trong tệp .gitignore theo nhu cầu của dự án của bạn. Quy tắc trong .gitignore sẽ chỉ định các tệp và thư mục không được theo dõi bởi Git và sẽ không được đưa lên kho lưu trữ.
+
+
+
+
+
+
