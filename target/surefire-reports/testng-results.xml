@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-04T15:28:28Z" name="Test_FrameWork" finished-at="2023-07-04T15:28:32Z" duration-ms="4660">
+    <groups>
+    </groups>
+    <test started-at="2023-07-04T15:28:28Z" name="Run on Dev2" finished-at="2023-07-04T15:28:32Z" duration-ms="4660">
+      <class name="com.build.anhteo.testcases.home.Test_Case_Test_1">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.build.anhteo.testcases.home.Test_Case_Test_1@6913c1fb]" started-at="2023-07-04T15:28:28Z" name="beforeTest" finished-at="2023-07-04T15:28:29Z" duration-ms="1258" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Test_1()[pri:0, instance:com.build.anhteo.testcases.home.Test_Case_Test_1@6913c1fb]" started-at="2023-07-04T15:28:29Z" name="Test_1" description="TRANG CHU" finished-at="2023-07-04T15:28:32Z" duration-ms="3210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_1 -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.build.anhteo.testcases.home.Test_Case_Test_1@6913c1fb]" started-at="2023-07-04T15:28:32Z" name="afterClass" finished-at="2023-07-04T15:28:32Z" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.build.anhteo.testcases.home.Test_Case_Test_1 -->
+    </test> <!-- Run on Dev2 -->
+  </suite> <!-- Test_FrameWork -->
+</testng-results>
