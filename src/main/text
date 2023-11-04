@@ -195,3 +195,11 @@ tài khoản download file app :
 sit.           : https://install.appcenter.ms/orgs/TCB-QA-Ready/apps/TCB-SIT/releases/5693
 stagging : https://install.appcenter.ms/orgs/TCB-QA-Ready/apps/Retail-STAGE-Simulator/releases/24
 qa@tcbapp.onmicrosoft.com/Techcombank@2021
+
+
+
+rên window khi gọi waitFor()
+http://localhost:4723/wd/hub/session/572191d3-c407-45ea-8576-1b3d7dad00e4/element
+
+Trên mac khi gọi waitFor
+http://localhost:4723/wd/hub/session/572191d3-c407-45ea-8576-1b3d7dad00e4/execute/sync
